@@ -1,0 +1,5 @@
+export const SHOW_SIDEBAR = "SHOW_SIDEBAR";
+export const MINI_SIDEBAR = "MINI_SIDEBAR";
+export const SET_SIDEBAR_STATUS = "SET_SIDEBAR_STATUS";
+export const CONTROL_TAB = "CONTROL_TAB";
+
